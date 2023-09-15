@@ -1,0 +1,395 @@
+[
+  {
+    "city": "New York City",
+    "population": 8336697,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Above_Gotham.jpg",
+    "state": "New York",
+    "latitude": 40.7127,
+    "longitude": -74.0059
+  },
+  {
+    "city": "Los Angeles",
+    "population": 3792621,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+    "state": "California",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "city": "Chicago",
+    "population": 2695598,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/2008-06-10_3000x1000_chicago_skyline.jpg",
+    "state": "Illinois",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "city": "Houston",
+    "population": 2100263,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_views_of_the_Houston%2C_Texas%2C_28005u.jpg/240px-Aerial_views_of_the_Houston%2C_Texas%2C_28005u.jpg",
+    "state": "Texas",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "city": "Phoenix",
+    "population": 1660272,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/207px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+    "state": "Arizona",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "city": "Philadelphia",
+    "population": 1553165,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Philly_skyline.jpg/240px-Philly_skyline.jpg",
+    "state": "Pennsylvania",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "city": "San Antonio",
+    "population": 1511946,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Downtown_San_Antonio_View.JPG/240px-Downtown_San_Antonio_View.JPG",
+    "state": "Texas",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "city": "San Diego",
+    "population": 1394928,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/US_Navy_110604-N-NS602-574_Navy_and_Marine_Corps_personnel%2C_along_with_community_leaders_from_the_greater_San_Diego_area_come_together_to_commemora.jpg/240px-US_Navy_110604-N-NS602-574_Navy_and_Marine_Corps_personnel%2C_along_with_community_leaders_from_the_greater_San_Diego_area_come_together_to_commemora.jpg",
+    "state": "California",
+    "latitude": 32.7157,
+    "longitude": -117.1611
+  },
+  {
+    "city": "Dallas",
+    "population": 1342808,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Dallas_skyline_daytime.jpg/240px-Dallas_skyline_daytime.jpg",
+    "state": "Texas",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "city": "San Jose",
+    "population": 1030119,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Downtown_San_Jose_skyline.PNG/240px-Downtown_San_Jose_skyline.PNG",
+    "state": "California",
+    "latitude": 37.3382,
+    "longitude": -121.8863
+  },
+  {
+    "city": "Austin",
+    "population": 950715,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Austin2012-12-01.JPG/240px-Austin2012-12-01.JPG",
+    "state": "Texas",
+    "latitude": 30.2672,
+    "longitude": -97.7431
+  },
+  {
+    "city": "Jacksonville",
+    "population": 903875,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Skyline_of_Jacksonville_FL%2C_South_view_20160706_1.jpg/240px-Skyline_of_Jacksonville_FL%2C_South_view_20160706_1.jpg",
+    "state": "Florida",
+    "latitude": 30.3322,
+    "longitude": -81.6557
+  },
+  {
+    "city": "Fort Worth",
+    "population": 895008,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/FortWorthTexasSkylineW.jpg/240px-FortWorthTexasSkylineW.jpg",
+    "state": "Texas",
+    "latitude": 32.7758,
+    "longitude": -97.3328
+  },
+  {
+    "city": "Columbus",
+    "population": 902533,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Columbus-ohio-skyline-panorama.jpg/240px-Columbus-ohio-skyline-panorama.jpg",
+    "state": "Ohio",
+    "latitude": 39.9612,
+    "longitude": -82.9988
+  },
+  {
+    "city": "Charlotte",
+    "population": 898034,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Charlotte_skyline45647.jpg/222px-Charlotte_skyline45647.jpg",
+    "state": "North Carolina",
+    "latitude": 35.2271,
+    "longitude": -80.8431
+  },
+  {
+    "city": "San Francisco",
+    "population": 883306,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/San_Francisco_skyline_from_Coit_Tower.jpg/240px-San_Francisco_skyline_from_Coit_Tower.jpg",
+    "state": "California",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "city": "Indianapolis",
+    "population": 876384,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Downtown_indy_from_parking_garage_zoom.JPG/213px-Downtown_indy_from_parking_garage_zoom.JPG",
+    "state": "Indiana",
+    "latitude": 39.7684,
+    "longitude": -86.1581
+  },
+  {
+    "city": "Seattle",
+    "population": 724745,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SeattleI5Skyline.jpg/240px-SeattleI5Skyline.jpg",
+    "state": "Washington",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  {
+    "city": "Denver",
+    "population": 716492,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DenverCP.JPG/240px-DenverCP.JPG",
+    "state": "Colorado",
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "city": "El Paso",
+    "population": 681124,
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Downtown_El_Paso_at_sunset.jpeg/240px-Downtown_El_Paso_at_sunset.jpeg",
+    "state": "Texas",
+    "latitude": 31.7619,
+    "longitude": -106.485
+  },
+  {
+    "city": "Detroit",
+    "population": 672662,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Detroit_Skyline_from_Windsor.jpg",
+    "state": "Michigan",
+    "latitude": 42.3314,
+    "longitude": -83.0458
+  },
+  {
+    "city": "Washington",
+    "population": 689545,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Washington_DC_skyline_2011.jpg/500px-Washington_DC_skyline_2011.jpg",
+    "state": "District of Columbia",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "city": "Boston",
+    "population": 685980,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Boston_skyline_from_Long_Wharf_March_2020_panorama_2.jpg/500px-Boston_skyline_from_Long_Wharf_March_2020_panorama_2.jpg",
+    "state": "Massachusetts",
+    "latitude": 42.3601,
+    "longitude": -71.0589
+  },
+  {
+    "city": "Nashville",
+    "population": 670861,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nashville_skyline.jpg/500px-Nashville_skyline.jpg",
+    "state": "Tennessee",
+    "latitude": 36.1627,
+    "longitude": -86.7816
+  },
+  {
+    "city": "Baltimore",
+    "population": 621939,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Baltimore_Inner_Harbor_Panorama.jpg/500px-Baltimore_Inner_Harbor_Panorama.jpg",
+    "state": "Maryland",
+    "latitude": 39.2904,
+    "longitude": -76.6122
+  },
+  {
+    "city": "Oklahoma City",
+    "population": 610613,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Oklahoma_City_Skyline.jpg/500px-Oklahoma_City_Skyline.jpg",
+    "state": "Oklahoma",
+    "latitude": 35.4676,
+    "longitude": -97.5164
+  },
+  {
+    "city": "Louisville",
+    "population": 616626,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Louisville_skyline_view.jpg/500px-Louisville_skyline_view.jpg",
+    "state": "Kentucky",
+    "latitude": 38.2527,
+    "longitude": -85.7585
+  },
+  {
+    "city": "Portland",
+    "population": 648742,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portland-skyline-view.jpg/500px-Portland-skyline-view.jpg",
+    "state": "Oregon",
+    "latitude": 45.5231,
+    "longitude": -122.6765
+  },
+  {
+    "city": "Las Vegas",
+    "population": 641659,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Las-vegas-skyline-1.jpg/500px-Las-vegas-skyline-1.jpg",
+    "state": "Nevada",
+    "latitude": 36.1699,
+    "longitude": -115.1398
+  },
+
+  {
+    "city": "Milwaukee",
+    "population": 594833,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Downtown_Milwaukee_WI_from_lake_front.jpg/500px-Downtown_Milwaukee_WI_from_lake_front.jpg",
+    "state": "Wisconsin",
+    "latitude": 43.0389,
+    "longitude": -87.9065
+  },
+  {
+    "city": "Albuquerque",
+    "population": 559121,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Albuquerque_Skyline_2007.jpg/500px-Albuquerque_Skyline_2007.jpg",
+    "state": "New Mexico",
+    "latitude": 35.0844,
+    "longitude": -106.6504
+  },
+  {
+    "city": "Tucson",
+    "population": 544839,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tucson_Arizona_from_Sentinel_Peak.jpg/500px-Tucson_Arizona_from_Sentinel_Peak.jpg",
+    "state": "Arizona",
+    "latitude": 32.2226,
+    "longitude": -110.9747
+  },
+  {
+    "city": "Fresno",
+    "population": 527971,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fresno_CA_skyline.JPG/500px-Fresno_CA_skyline.JPG",
+    "state": "California",
+    "latitude": 36.7468,
+    "longitude": -119.7726
+  },
+  {
+    "city": "Sacramento",
+    "population": 508529,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sacramento_Skyline_%28cropped%29.jpg/500px-Sacramento_Skyline_%28cropped%29.jpg",
+    "state": "California",
+    "latitude": 38.5816,
+    "longitude": -121.4944
+  },
+  {
+    "city": "Long Beach",
+    "population": 470438,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Long_Beach_Skyline.jpg/500px-Long_Beach_Skyline.jpg",
+    "state": "California",
+    "latitude": 33.7669,
+    "longitude": -118.1883
+  },
+  {
+    "city": "Kansas City",
+    "population": 467007,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kansas_City_Missouri_skyline.jpg/500px-Kansas_City_Missouri_skyline.jpg",
+    "state": "Missouri",
+    "latitude": 39.0997,
+    "longitude": -94.5786
+  },
+  {
+    "city": "Mesa",
+    "population": 496704,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mesa_AZ_Montage.jpg/500px-Mesa_AZ_Montage.jpg",
+    "state": "Arizona",
+    "latitude": 33.4152,
+    "longitude": -111.8315
+  },
+  {
+    "city": "Virginia Beach",
+    "population": 448479,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Virginia_Beach_Montage.jpg/500px-Virginia_Beach_Montage.jpg",
+    "state": "Virginia",
+    "latitude": 36.8529,
+    "longitude": -75.978
+  },
+  {
+    "city": "Atlanta",
+    "population": 486290,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Atlanta_Skyline.jpg/500px-Atlanta_Skyline.jpg",
+    "state": "Georgia",
+    "latitude": 33.749,
+    "longitude": -84.388
+  },
+  {
+    "city": "Colorado Springs",
+    "population": 472061,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Downtown_Colorado_Springs_skyline.jpg/500px-Downtown_Colorado_Springs_skyline.jpg",
+    "state": "Colorado",
+    "latitude": 38.8339,
+    "longitude": -104.8214
+  },
+  {
+    "city": "Raleigh",
+    "population": 469298,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Downtown_Raleigh_NC.jpg/500px-Downtown_Raleigh_NC.jpg",
+    "state": "North Carolina",
+    "latitude": 35.7796,
+    "longitude": -78.6382
+  },
+  {
+    "city": "Omaha",
+    "population": 468460,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Omaha_skyline.png/500px-Omaha_skyline.png",
+    "state": "Nebraska",
+    "latitude": 41.2524,
+    "longitude": -95.998
+  },
+  {
+    "city": "Miami",
+    "population": 463347,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Miami_collage_20160726.jpg/500px-Miami_collage_20160726.jpg",
+    "state": "Florida",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "city": "Oakland",
+    "population": 433541,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oakland_CA_skyline.jpg/500px-Oakland_CA_skyline.jpg",
+    "state": "California",
+    "latitude": 37.8044,
+    "longitude": -122.2711
+  },
+  {
+    "city": "Minneapolis",
+    "population": 429606,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Minneapolis_skyline_from_northeast_looking_southwest.jpg/500px-Minneapolis_skyline_from_northeast_looking_southwest.jpg",
+    "state": "Minnesota",
+    "latitude": 44.9778,
+    "longitude": -93.265
+  },
+  {
+    "city": "Tulsa",
+    "population": 413505,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tulsa_skyline.jpg/500px-Tulsa_skyline.jpg",
+    "state": "Oklahoma",
+    "latitude": 36.154,
+    "longitude": -95.9928
+  },
+  {
+    "city": "Wichita",
+    "population": 392888,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wichita_KS_skyline2.jpg/500px-Wichita_KS_skyline2.jpg",
+    "state": "Kansas",
+    "latitude": 37.6888,
+    "longitude": -97.3361
+  },
+  {
+    "city": "Arlington",
+    "population": 396394,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arlington_skyline_with_Globe_Life_Park_in_Arlington_and_AT%26T_Stadium.jpg/500px-Arlington_skyline_with_Globe_Life_Park_in_Arlington_and_AT%26T_Stadium.jpg",
+    "state": "Texas",
+    "latitude": 32.7357,
+    "longitude": -97.1081
+  },
+  {
+    "city": "New Orleans",
+    "population": 390863,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewOrleansSkylinePanorama.jpg/500px-NewOrleansSkylinePanorama.jpg",
+    "state": "Louisiana",
+    "latitude": 29.9511,
+    "longitude": -90.0715
+  }
+]
